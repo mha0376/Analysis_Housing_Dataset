@@ -16,8 +16,8 @@ Based on the available files, the analysis likely includes:
 * **Python:** The primary programming language used.
 * **Jupyter Notebook (.ipynb):** Used for data analysis and visualization.
 * **Pandas:** For data manipulation and analysis. (Inferred from common usage in data analysis projects.)
-* **Matplotlib/Seaborn (Potential):** Likely used for data visualization (Inferred from common usage in data analysis projects).
-* **Scikit-learn (Potential):** Potentially used for model building (Inferred from common usage in data analysis projects).
+* **Matplotlib/Seaborn (Potential):** used for data visualization.
+* **Scikit-learn (Potential):** Potentially used for model building.
 
 
 ## Prerequisites
