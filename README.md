@@ -1,3 +1,5 @@
+![3429cedb-f1d0-4a78-952b-0b3aa07ce979](https://github.com/user-attachments/assets/6edf6aff-b607-4da5-a83c-093137a15ee9)
+
 # Analysis_Housing_Dataset
 
 This repository contains a data analysis project focused on exploring and understanding a housing dataset. The goal of this project is to gain insights into the factors influencing housing prices and potentially build predictive models for future valuations.
