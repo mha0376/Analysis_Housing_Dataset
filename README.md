@@ -1,4 +1,4 @@
-![3429cedb-f1d0-4a78-952b-0b3aa07ce979](https://github.com/user-attachments/assets/6edf6aff-b607-4da5-a83c-093137a15ee9)
+![image (10)](https://github.com/user-attachments/assets/b93e8884-a99e-4e71-83f5-b807984c5483)
 
 # Analysis_Housing_Dataset
 
